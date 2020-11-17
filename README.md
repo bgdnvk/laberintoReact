@@ -1,5 +1,5 @@
 # laberintoReact
-juego de laberinto aleatorio hecho en react usando el acelerometro
+juego de laberinto aleatorio hecho en react native usando el acelerometro
 
 # Instalación
 ## Prerequisitos:
